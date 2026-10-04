@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 Hi, I'm Timothy
 
-<!--
-**chidiebereprince09-cpu/chidiebereprince09-cpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Computer Engineering Student | 🤖 AI & Automation | 🌐 Web Development
 
-Here are some ideas to get you started:
+I'm a Computer Engineering student learning how technology works from the fundamentals and building projects along the way.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm Learning
+
+- 💻 Programming
+- 🌐 Web Development
+- 🤖 AI & Automation
+- 🧠 Computer Engineering
+- 🔧 Git & GitHub
+
+## 📌 Featured Project
+
+### ⚽ Football Special AI
+
+An AI-assisted football storytelling and short-form video production project.
+
+**What it involves:**
+
+- AI-assisted scriptwriting
+- AI image generation
+- AI voiceover
+- Video editing
+- Captions and sound effects
+- Short-form content production
+- Future AI automation
+
+👉 Check out the project: [Football Special AI](https://github.com/chidiebereprince09-cpu/football-special-ai)
+
+## 📚 Current Goal
+
+I'm building my skills step by step and turning what I learn into real projects.
+
+## 🔭 Future Goals
+
+- Build AI-powered automation systems
+- Become a strong software developer
+- Build useful web applications
+- Combine AI with Computer Engineering
+- Create more real-world projects
+
+---
+
+⭐ Thanks for visiting my profile!
